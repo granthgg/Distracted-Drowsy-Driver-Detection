@@ -1,5 +1,8 @@
 # Driver Activity Tracker
-![Project Sample Image-5](https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/68ec3240-654e-4631-acfa-1cf2a7488a5f) ![Project Sample Image-8](https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/f72f1b44-5f68-4b91-b2c5-4ec495267a0e)
+<div>
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/68ec3240-654e-4631-acfa-1cf2a7488a5f" width="40" height="40"/>&nbsp; 
+<div>
+![Project Sample Image-8](https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/f72f1b44-5f68-4b91-b2c5-4ec495267a0e)
 
 
 ## Overview
