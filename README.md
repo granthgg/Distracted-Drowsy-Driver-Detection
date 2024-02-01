@@ -5,24 +5,19 @@
 <img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/e49fac6a-a71b-4af1-be0e-327370720261" width="320" height="295"/>&nbsp; 
 <div>
 
-
-
 ## Overview
-This project is an application designed to run on any device to track driver activity. It aims to enhance road safety by monitoring whether a driver is distracted or drowsy, and alerting the driver accordingly based on an alert meter.
+This project is an application designed to run on any device to track driver activity. It aims to enhance road safety by monitoring whether a driver is distracted or drowsy, and alerting the driver accordingly based on an alert meter. This project is made using the model trained using YoloV8, Dlib, OpenCV's libraries, etc.
+
 
 ## Features
 The application is capable of tracking and detecting various driver activities such as:
-- Whether the driver is wearing a seatbelt
-- Whether the driver is using a phone
-- Where the driver is looking
-- Whether the driver's eyes are opened or closed
+- Whether the Driver is wearing a Seatbelt
+- Whether the Driver is using a Phone
+- Whether the Driver is using a Yawing
+- Where the Driver is Looking
+- Whether the Driver's Eyes are Opened or Closed
 - And many more...
 
-## Installation
-Provide instructions on how to install your application here.
-
-## Usage
-Provide instructions on how to use your application here.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
