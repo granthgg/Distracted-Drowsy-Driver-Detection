@@ -1,8 +1,8 @@
 # Driver Activity Tracker
 <div>
-<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/68ec3240-654e-4631-acfa-1cf2a7488a5f" width="320" height="290"/>&nbsp; 
-<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/f72f1b44-5f68-4b91-b2c5-4ec495267a0e" width="320" height="290"/>&nbsp; 
-<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/e49fac6a-a71b-4af1-be0e-327370720261" width="320" height="290"/>&nbsp; 
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/68ec3240-654e-4631-acfa-1cf2a7488a5f" width="320" height="295"/>&nbsp; 
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/f72f1b44-5f68-4b91-b2c5-4ec495267a0e" width="320" height="295"/>&nbsp; 
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/e49fac6a-a71b-4af1-be0e-327370720261" width="320" height="295"/>&nbsp; 
 <div>
 
 
