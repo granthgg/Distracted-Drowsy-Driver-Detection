@@ -1,4 +1,5 @@
 # Driver Activity Tracker
+![Project Sample Image-5](https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/68ec3240-654e-4631-acfa-1cf2a7488a5f)
 
 ## Overview
 This project is an application designed to run on any device to track driver activity. It aims to enhance road safety by monitoring whether a driver is distracted or drowsy, and alerting the driver accordingly based on an alert meter.
