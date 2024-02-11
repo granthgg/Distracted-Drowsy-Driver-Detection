@@ -1,0 +1,11 @@
+cv2
+dlib
+numpy
+math
+time
+threading
+scipy
+imutils
+pygame
+argparse
+ultralytics
