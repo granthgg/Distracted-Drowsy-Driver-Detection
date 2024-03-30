@@ -6,8 +6,8 @@ This project is an application designed to run on any device to track driver act
 
 
 <div>
-<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/7b778a76-bcb0-4cb3-b36b-2f6f3da649d7" height="230"/>&nbsp; 
-<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/4fd222c4-fd45-423f-b0af-c26cd68431e4"  height="230"/>&nbsp; 
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/7b778a76-bcb0-4cb3-b36b-2f6f3da649d7" />&nbsp; 
+<img src="https://github.com/granthgg/Distracted-Drowsy-Driver-Detection/assets/69439823/4fd222c4-fd45-423f-b0af-c26cd68431e4"  />&nbsp; 
 <div>
 
 ## Capabilities
