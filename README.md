@@ -3,7 +3,6 @@
 This project is an application designed to run on any device to track driver activity. It aims to enhance road safety by monitoring whether a driver is distracted or drowsy, and alerting the driver accordingly based on an alert meter. This project is made using the model trained using YoloV8, Dlib, OpenCV's libraries, etc.
 
 
-![WhatsApp Image 2024-02-29 at 16 04 05_47992124]()
 
 
 <div>
